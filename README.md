@@ -6,8 +6,6 @@ A **Retrieval-Augmented Generation (RAG)**-powered chatbot that reads the conten
 
 ## 💼 Real-World Applications
 
-This is not just a portfolio project — it's a **real-world productivity tool**. Here’s how it can be applied:
-
 ### 📊 Financial Analysis
 - Input multiple mortgage rate articles or market reports
 - Instantly query: *“What was the 30-year fixed mortgage rate on August 13?”*
