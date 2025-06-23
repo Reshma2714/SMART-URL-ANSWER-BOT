@@ -66,3 +66,10 @@ A **Retrieval-Augmented Generation (RAG)**-powered chatbot that reads the conten
    - Retrieves relevant content
    - Sends it to Groq LLaMA 3.3-70B for response generation
    - Returns the answer + source links
+
+--- 
+
+## 🖼️  Streamlit App
+
+![Smart URL Answer Bot](./images/Streamlit.png)  
+
