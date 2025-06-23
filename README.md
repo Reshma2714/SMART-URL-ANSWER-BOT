@@ -71,5 +71,5 @@ A **Retrieval-Augmented Generation (RAG)**-powered chatbot that reads the conten
 
 ## 🖼️  Streamlit App
 
-![Smart URL Answer Bot](./images/Streamlit.png)  
+![Smart URL Answer Bot](./Streamlit.png)  
 
